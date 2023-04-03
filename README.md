@@ -15,3 +15,5 @@
 15. git checkout [branch_name] // switch from a current branch to [branch_name] (git checkout develop)
 16. git pull [rep_link] [branch_name] (git pull origin master)
 17. git merge
+    17.1 git checkout master
+    17.2 
