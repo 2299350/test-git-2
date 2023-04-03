@@ -9,3 +9,6 @@
 9. git reset [file_name] (git reset index.html) // remove file from the stage
 10. git diff
 11. git reset --hard
+12. git branch [branch_name] (git branch depelop)
+13. git branch // show all branches (an active one is green)
+14. git checkout [branch_name] // switch from a current branch to [branch_name] (git checkout depelop)
