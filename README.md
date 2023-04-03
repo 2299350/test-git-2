@@ -16,4 +16,4 @@
 16. git pull [rep_link] [branch_name] (git pull origin master)
 17. git merge
     17.1 git checkout master
-    17.2 
+    17.2 git merge [branch_name] (git merge feature/main-page)
